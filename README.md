@@ -20,14 +20,12 @@ Step 5: Design layout in activity_main.xml <br>
 Step 6: Display message give in MainActivity file.<br>
 Step 7: Save and run the application.
 
-
 ## PROGRAM:
 ~~~
 Program to print the text “GUIcomponent”.
 Developed by: DIVYASHREE B S
 Registeration Number : 212221040044
 ~~~
-
 ## activity_main.xml
 ~~~
 <?xml version="1.0" encoding="utf-8"?>
@@ -146,13 +144,9 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 
 ![image](https://github.com/divvisha/EX2-MAD-/assets/127508123/2d5a3d55-cc94-4d40-ac5d-69b8ae228b30)
-
 ![image](https://github.com/divvisha/EX2-MAD-/assets/127508123/89b95b5e-b3d0-4cc6-bd25-fddc6cc5aa77)
-
 ![image](https://github.com/divvisha/EX2-MAD-/assets/127508123/50a935f2-bbe5-4299-803b-cb7ed56a53fd)
-
 ![image](https://github.com/divvisha/EX2-MAD-/assets/127508123/a6aeea8a-037b-4ea3-bdd5-a863bfb60637)
-
 
 ## RESULT
 Thus a Simple Android Application that uses GUI Components with Fonts and Colors using Android Studio is developed and executed successfully.
